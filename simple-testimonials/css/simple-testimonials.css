@@ -1,0 +1,24 @@
+/* Styling for the testimonials container */
+.simple-testimonials {
+    margin: 20px 0;
+}
+
+/* Styling for individual testimonials */
+.testimonial {
+    margin-bottom: 20px;
+}
+
+/* Styling for testimonial details */
+.testimonial p {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+/* Styling for testimonial text */
+.testimonial blockquote {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    line-height: 1.5;
+    font-style: italic;
+}
